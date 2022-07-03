@@ -7,6 +7,7 @@ set.relativenumber = true
 set.wrap = false
 
 set.encoding = "UTF-8"
+set.hidden = true
 
 set.smarttab = true
 set.expandtab = true
